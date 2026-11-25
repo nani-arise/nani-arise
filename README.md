@@ -27,29 +27,59 @@ I'm a Computer Science Engineering student specializing in Cybersecurity, intere
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧰 Technical Skills
 
-**Languages**
+### Programming
 Python • C • C++ • Java • JavaScript
 
-**Security & Systems**
+### Cybersecurity
+Network Security • Threat Detection • OSINT • Security Monitoring • Reconnaissance
+
+### Tools & Platforms
 Linux • Kali Linux • Wireshark • Nmap • Git
 
-**Development**
-React • HTML • CSS • Flask
+### Development
+React • Flask • HTML • CSS • REST APIs
+
+### Areas of Interest
+SOC Operations • Digital Forensics • Network Forensics • Security Automation • AI in Cybersecurity
 
 ---
+---
 
-## 🚀 Projects
+## 📚 Currently Learning
 
-> Explore my repositories to see my experiments, tools, and engineering projects.
+- Security Operations Center (SOC) workflows
+- SIEM monitoring and log analysis
+- Network traffic analysis
+- Threat detection and incident investigation
+- Security automation using Python
+- AI applications in cybersecurity
+
+## 🚀 Featured Projects
+
+### 🛡️ Kavacha AI Platform
+AI-powered crime intelligence and decision-support platform featuring crime analytics, geospatial intelligence, network analysis, and AI-assisted investigation.
+
+### 🔵 SOC BlueShield
+Security Operations Center dashboard for security monitoring, incident response, threat intelligence, and Wazuh SIEM integration.
+
+### 🔎 OSINT Tool
+OSINT automation toolkit for gathering and analyzing publicly available information using multiple reconnaissance techniques.
+
+### 🌐 ReconScope
+Full-stack web reconnaissance framework for automated WHOIS, DNS, HTTP, SSL/TLS, IP intelligence, and security analysis.
+---
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: [@nani-arise](https://github.com/nani-arise)
+- Portfolio: [ReconScope](https://web-reconnaissance.netlify.app/)
 
 ---
+
+💡 Interested in Cybersecurity, Security Research, Threat Detection, and building practical security tools.
 
 *Always learning. Always building. Always exploring security.*
