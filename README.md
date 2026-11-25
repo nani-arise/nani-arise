@@ -68,10 +68,9 @@ Security Operations Center dashboard for security monitoring, incident response,
 OSINT automation toolkit for gathering and analyzing publicly available information using multiple reconnaissance techniques.
 
 ### 🌐 ReconScope
-Full-stack web reconnaissance framework for automated WHOIS, DNS, HTTP, SSL/TLS, IP intelligence, and security analysis.
+ Full-stack web reconnaissance framework for automated WHOIS, DNS, HTTP, SSL/TLS, IP intelligence, and security analysis.
 ---
 
----
 
 ## 📫 Connect With Me
 
